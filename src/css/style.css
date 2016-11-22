@@ -1,0 +1,49 @@
+/*.red {
+  color: red;
+  font-size: 50px;
+}
+
+.green {
+  color: green;
+  font-size: 50px;
+}
+
+.yellow {
+  color: yellow;
+  font-size: 50px;
+}*/
+
+
+.black {
+  text-align: center;
+  margin-top: 15px;
+  padding: 20px;
+}
+
+.total {
+  text-align: center;
+}
+
+.type-quantity {
+  margin-top: 115px;
+}
+
+.type {
+  font-size: 17px;
+}
+
+#beverages {
+  color: #6b96d5
+}
+
+#fruit {
+  color: #ff7043
+}
+
+#snack {
+  color: #999ede
+}
+
+#vegetables {
+  color: #56dd7f
+}
