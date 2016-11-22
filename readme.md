@@ -1,6 +1,4 @@
-# React Webpack Starter Kit
+# niojs-react
 
-To begin:
 
-* First, run `npm install` to install required dependencies.
-* Then, to begin webpack-dev-server, run `npm run serve`.  This will execute the 'serve' script in the package.json file.
+* npm install & npm run serve
