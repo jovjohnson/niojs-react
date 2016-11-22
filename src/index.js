@@ -100,10 +100,8 @@ const RootComponent = React.createFactory(props => {
             <p id='beverages' className='type'>beverages</p>
           </div>
         </div>
-        <div className='percentages'>
-        </div>
-        </div>
       </div>
+    </div>
   )
 });
 
